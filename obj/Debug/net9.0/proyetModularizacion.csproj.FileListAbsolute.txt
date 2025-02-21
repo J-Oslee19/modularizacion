@@ -1,0 +1,15 @@
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\bin\Debug\net9.0\proyetModularizacion.exe
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\bin\Debug\net9.0\proyetModularizacion.deps.json
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\bin\Debug\net9.0\proyetModularizacion.runtimeconfig.json
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\bin\Debug\net9.0\proyetModularizacion.dll
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\bin\Debug\net9.0\proyetModularizacion.pdb
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.AssemblyInfoInputs.cache
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.AssemblyInfo.cs
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.csproj.CoreCompileInputs.cache
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.sourcelink.json
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.dll
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\refint\proyetModularizacion.dll
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.pdb
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\proyetModularizacion.genruntimeconfig.cache
+c:\Users\Ashly Pineda\Desktop\Modularizacion_7\modularizacion\obj\Debug\net9.0\ref\proyetModularizacion.dll
